@@ -7,7 +7,7 @@ name = 'gymx'
 
 setup(
     name=name,
-    version='0.0.0',
+    version='0.0.1',
     description=long_description.splitlines()[0],
     long_description=long_description,
     long_description_content_type='text/markdown',
